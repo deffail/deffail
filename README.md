@@ -20,5 +20,3 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 
 ---
-
-*Feel free to explore my projects and get in touch!*
